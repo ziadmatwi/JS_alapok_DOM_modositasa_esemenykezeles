@@ -61,3 +61,11 @@ div.elem {
     border-radius: 5px;
     background-color: lightslategray;
 }
+
+.nagykep {
+    width: 2000px;
+}
+
+.kiskep {
+    width:auto;
+}
